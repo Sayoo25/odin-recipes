@@ -1,1 +1,2 @@
 # odin-recipes
+For this project, I will create a small blog of a recipe. I will be demonstrating my newly learned html skills by showcasing the commands I know as well as getting more familiar with them.
